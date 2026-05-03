@@ -1,7 +1,5 @@
 # DevMate-AI: AI-Powered Cyber Range & SOC Simulator
 
-![DevMate-AI Logo](https://picsum.photos/seed/cybersecurity/1200/400)
-
 **DevMate-AI** is a next-generation, full-stack cybersecurity simulation and defense platform. It provides a high-fidelity "Digital Twin" environment for organizations to model, detect, and mitigate complex cyber threats using advanced AI and automated response protocols.
 
 ---
